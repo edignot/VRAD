@@ -5,10 +5,6 @@ VRAD is an app allowing users to find Vacation Rentals Around Denver, similar to
 
 This was a paired project during Module 3 at [Turing School of Software & Design](https://turing.io/).
 
-
-### User Interaction 
-![1](/1.gif)
-
 ### User Story:
 User should be able to:
 
@@ -26,6 +22,9 @@ User should be able to:
 
 #### 5. Add/Remove Listing from Favorite Listings
 <img width="1434" alt="5" src="https://user-images.githubusercontent.com/57964291/82497664-e1681000-9aab-11ea-98f3-2b8b2ab7efd8.png">
+
+### User Interaction 
+![1](/1.gif)
 
 ### Technologies Used:
 - React
