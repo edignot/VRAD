@@ -1,8 +1,9 @@
 # VRAD - Vacation Rentals Around Denver
 
-### Abstract
-VRAD is an app allowing users to find Vacation Rentals Around Denver, similar to AirBnb. A user can Login with their name, email address & purpose for the rental(there is no Login authentication), and choose different areas around Denver where they would like to stay.  After selecting an area, a user can view all available listings for that area. User can open each listing and see additional information and pictures, and can also add or remove the listing from their :blue_heart:Favorites. After favoriting listings, user can click on the My Favorites button to see all the listings they are interested in.
+![vrad](/vrad.jpg)
 
+### About
+VRAD is an application allowing users to find Vacation Rentals Around Denver, similar to AirBnb. A user can Login with their name, email address & purpose for the rental(there is no Login authentication), and choose different areas around Denver where they would like to stay.  After selecting an area, a user can view all available listings for that area. User can open each listing and see additional information and pictures, and can also add or remove the listing from their :blue_heart:Favorites. After favoriting listings, user can click on the My Favorites button to see all the listings they are interested in.
 This was a paired project during Module 3 at [Turing School of Software & Design](https://turing.io/).
 
 ### User Story:
