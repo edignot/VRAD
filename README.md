@@ -35,6 +35,10 @@ User should be able to:
 - Jest
 - React Testing Library
 
+### Main Files
+
+#### React Components
+
 ### Learning Goals
 - Keep state based components to a minimum and leverage more functional components.
 - Use a modular architecture for App file structure.
