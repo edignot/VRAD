@@ -29,7 +29,6 @@ User should be able to:
 
 ### Built with
 - React
-- Create React App
 - JavaScript
 - CSS
 - Fetch API
@@ -52,6 +51,6 @@ User should be able to:
 1. Open `localhost:3000` in your favorite browser
 
 ### Constributors
-- [Edita Ignot](https://github.com/edignot)
+### [Edita Ignot](https://github.com/edignot) | [MY COMMITS](https://github.com/StreetArtMap/streetArtMap/commits/master?after=03485ade34c92e1eba5047ce69f0473778166856+34&author=edignot&branch=master)
 - [Karl Nielsen](https://github.com/Karlfunhouse)
 
