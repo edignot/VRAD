@@ -37,7 +37,10 @@ User should be able to:
 
 ### Main Files
 
-#### React Components
+- [All Components](https://github.com/edignot/VRAD/tree/master/src/components) | Each Component has it's own test and CSS styling file
+  - [App Component](https://github.com/edignot/VRAD/blob/master/src/components/App/App.js) | React Routing 
+    - [App Component Async Integration Testing](https://github.com/edignot/VRAD/blob/master/src/components/App/App.test.js)
+- [Fetch API Network Calls](https://github.com/edignot/VRAD/blob/master/src/ApiFetch/ApiFetch.js)
 
 ### Learning Goals
 - Keep state based components to a minimum and leverage more functional components.
