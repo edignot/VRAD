@@ -57,7 +57,7 @@ User should be able to:
 1. Run `npm start` to start the webserver 
 1. Open `localhost:3000` in your favorite browser
 
-### Constributors
+### Contributors
 ### [Edita Ignot](https://github.com/edignot) | [MY COMMITS](https://github.com/edignot/VRAD/commits/master?author=edignot&branch=master)
 [Karl Nielsen](https://github.com/Karlfunhouse)
 
